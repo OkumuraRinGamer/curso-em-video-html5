@@ -18,7 +18,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../aula08/projeto-glass-html5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../aula09/projeto-glass-html5" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -33,7 +33,8 @@
       <workItem from="1604629056474" duration="3939000" />
       <workItem from="1604633068219" duration="31000" />
       <workItem from="1604633272875" duration="214000" />
-      <workItem from="1604675696341" duration="3162000" />
+      <workItem from="1604675696341" duration="3121000" />
+      <workItem from="1604679895352" duration="1741000" />
     </task>
     <servers />
   </component>
@@ -41,9 +42,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="274" y="275" key="FileChooserDialogImpl" timestamp="1604679892943">
+    <state x="274" y="275" key="FileChooserDialogImpl" timestamp="1604681636950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="274" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604679892943" />
+    <state x="274" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604681636950" />
   </component>
 </project>
