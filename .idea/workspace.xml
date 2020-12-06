@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0defce5f-5a99-41c1-a62d-49c4a6790649" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jvb8x2PqX0qEhgDIUZk8zXBwdR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/aula35" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pedro\Google Drive\Cursos\Curso-Em-Video\HTML5\aula35" />
+      <recent name="C:\Users\pedro\Google Drive\Cursos\Curso-Em-Video\HTML5\aula34" />
+      <recent name="C:\Users\pedro\Google Drive\Cursos\Curso-Em-Video\HTML5\aula33" />
+      <recent name="C:\Users\pedro\Google Drive\Cursos\Curso-Em-Video\HTML5\aula32" />
+      <recent name="C:\Users\pedro\Google Drive\Cursos\Curso-Em-Video\HTML5\aula31" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0defce5f-5a99-41c1-a62d-49c4a6790649" name="Default Changelist" comment="" />
+      <created>1604687356321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604687356321</updated>
+      <workItem from="1604687357343" duration="4238000" />
+      <workItem from="1604709468138" duration="12684000" />
+      <workItem from="1604758706257" duration="20737000" />
+      <workItem from="1604786444767" duration="5749000" />
+      <workItem from="1604942038243" duration="61000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="348" y="262" key="FileChooserDialogImpl" timestamp="1604942073708">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="348" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604942073708" />
+    <state x="231" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1604792568436">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="231" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604792568436" />
+  </component>
+</project>
